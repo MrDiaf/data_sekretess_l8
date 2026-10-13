@@ -1,0 +1,12 @@
+{
+  "name": "privacy-for-computations-lessons",
+  "private": true,
+  "type": "module",
+  "description": "Interactive lessons on privacy for computations: differential privacy and secure multiparty computation (V. Torra, A guide to data privacy, ch. 5)",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
